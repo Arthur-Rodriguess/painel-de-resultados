@@ -192,4 +192,8 @@ body {
         margin: 0;
         padding: 5%;
     }
+
+    .content__main__button {
+        margin-top: 5%;
+    }
 }
